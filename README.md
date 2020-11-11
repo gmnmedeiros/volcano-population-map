@@ -5,4 +5,4 @@ In this exercise, I've used Folium to render an HTML file containing an interact
 
 In the code, I have imported data on volcanoes throughout the USA territory and assigned their location, name and elevation figures on the map.
 
-Also, I've added population data from contries across the world and and assigned color to them based on the population number.
+Also, I've added population data from countries across the world and and assigned color to them based on the population figure.
